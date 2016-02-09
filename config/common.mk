@@ -151,7 +151,8 @@ PRODUCT_PACKAGES += \
     CMUpdater \
     CyanogenSetupWizard \
     CMSettingsProvider \
-    ExactCalculator
+    ExactCalculator \
+    Chromium
 
 # CM Platform Library
 PRODUCT_PACKAGES += \
